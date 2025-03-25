@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\CountryMap\obj\Debug\net8.0\CountryMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CountryMap\obj\Debug\net8.0\CountryMap.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CountryMap\obj\Debug\net8.0\CountryMap.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CountryMap\obj\Debug\net8.0\CountryMap.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CountryMap\bin\Debug\net8.0\CountryMap.exe
+C:\Users\Administrator\source\repos\CountryMap\bin\Debug\net8.0\CountryMap.deps.json
+C:\Users\Administrator\source\repos\CountryMap\bin\Debug\net8.0\CountryMap.runtimeconfig.json
+C:\Users\Administrator\source\repos\CountryMap\bin\Debug\net8.0\CountryMap.dll
+C:\Users\Administrator\source\repos\CountryMap\bin\Debug\net8.0\CountryMap.pdb
+C:\Users\Administrator\source\repos\CountryMap\obj\Debug\net8.0\CountryMap.dll
+C:\Users\Administrator\source\repos\CountryMap\obj\Debug\net8.0\refint\CountryMap.dll
+C:\Users\Administrator\source\repos\CountryMap\obj\Debug\net8.0\CountryMap.pdb
+C:\Users\Administrator\source\repos\CountryMap\obj\Debug\net8.0\CountryMap.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\CountryMap\obj\Debug\net8.0\ref\CountryMap.dll
